@@ -619,8 +619,13 @@ textarea {
     position: fixed;
     left: 20px;
   }
-  .body{
+  body{
     overflow-x: hidden;
+    width: 100svw;
+  }
+  .footer{
+    width: 100svw;
+    justify-content: end;
   }
 }
 
