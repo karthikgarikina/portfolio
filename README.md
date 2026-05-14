@@ -44,3 +44,8 @@ npm run preview
 - `src/index.css` — Global styles (same look as the original static site)
 - `index.html` — Vite HTML shell, fonts, Font Awesome
 - `dataset/` — Local images used by CSS and the favicon
+
+---
+## video demo
+
+https://www.youtube.com/watch?v=xuZiYaUfpl0
